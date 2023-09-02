@@ -8,3 +8,5 @@ The semantic search is unlike traditional keyword-based search methods. Semantic
 #Hugging Face - I am going to use HF to create embeddings for the movie data set 
 
 #Run semantic_search using dot_product vector matching function!  
+
+(Credit- SingleStore webinar)
