@@ -1,2 +1,2 @@
-# test
+# GenAI
 testing
